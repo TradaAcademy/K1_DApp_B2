@@ -23,5 +23,7 @@
 ### Không bắt buộc
 1. Không có, mọi người chịu hó làm đi cho hiểu !!
 
-### Vài slide tham khảo
+### Slide tham khảo
 1. https://docs.google.com/presentation/d/10nDoEStPFpysDWYUtd0VCMD1zRDxjD4OU5GHHHhq4jc/edit?usp=sharing
+
+Slide giới thiệu về Ethereum, ko liên quan đến bài tập.
