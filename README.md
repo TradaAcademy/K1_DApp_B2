@@ -6,7 +6,8 @@
 
 ## Chạy thử
 
-1. Open file index.html bằng browser (prefered Chrome)
+1. Open file index.html bằng browser (Chrome)
+2. Mở console của browser để xem log
 
 ## Bài tập về nhà
 ### Bắt buộc
