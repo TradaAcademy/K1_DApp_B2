@@ -1,5 +1,8 @@
 # Khoá 1 DApp Bài 2
 
+## Nội dung bài
+Sử dụng Web3 JS library để truy vấn thông tin (read) Ethereum blockchain và smart contract.
+
 ## Cài đặt
 
 1. Không cần gì
